@@ -1,7 +1,7 @@
 # Thirty-six improved lower bounds for A(n, 4, w)
 
 Casey Lee Race  
-Calera Computing, Inc.  
+Calera Labs  
 support@caleralabs.com  
 ORCID [0009-0006-5237-1112](https://orcid.org/0009-0006-5237-1112)
 
