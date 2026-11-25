@@ -1,0 +1,8 @@
+These 42 .pk files are a subset of Andries E. Brouwer's public archive of
+Johnson-graph partitions, dated 22 March 2010.
+
+Source: https://aeb.win.tue.nl/codes/partitions/
+
+They are included here only so the 36 constant-weight codes in this
+repository can be rebuilt and checked. They are not original to this work.
+The filenames are Brouwer's (part<n>.<wmin>_<tag>.pk).

@@ -1,0 +1,97 @@
+\begin{thebibliography}{10}
+
+\bibitem{Johnson1962}
+Selmer~M. Johnson.
+\newblock A new upper bound for error-correcting codes.
+\newblock {\em IRE Transactions on Information Theory}, 8(3):203--207, 1962.
+
+\bibitem{GrahamSloane1980}
+R.~L. Graham and N.~J.~A. Sloane.
+\newblock Lower bounds for constant weight codes.
+\newblock {\em IEEE Transactions on Information Theory}, 26(1):37--43, 1980.
+
+\bibitem{BSSS1990}
+A.~E. Brouwer, J.~B. Shearer, N.~J.~A. Sloane, and W.~D. Smith.
+\newblock A new table of constant weight codes.
+\newblock {\em IEEE Transactions on Information Theory}, 36(6):1334--1380,
+  1990.
+
+\bibitem{SmithHughesPerkins2006}
+D.~H. Smith, L.~A. Hughes, and S.~Perkins.
+\newblock A new table of constant weight codes of length greater than 28.
+\newblock {\em The Electronic Journal of Combinatorics}, 13(1):A2, 2006.
+
+\bibitem{MontemanniSmith2009}
+Roberto Montemanni and Derek~H. Smith.
+\newblock Heuristic algorithms for constructing binary constant weight codes.
+\newblock {\em IEEE Transactions on Information Theory}, 55(10):4651--4656,
+  2009.
+
+\bibitem{BrouwerEtzion2011}
+Andries~E. Brouwer and Tuvi Etzion.
+\newblock Some new distance-4 constant weight codes.
+\newblock {\em Advances in Mathematics of Communications}, 5(3):417--424, 2011.
+
+\bibitem{BrouwerAndw}
+Andries~E. Brouwer.
+\newblock Bounds for binary constant weight codes.
+\newblock \url{https://aeb.win.tue.nl/codes/Andw.html}, 2026.
+\newblock Live online table, snapshot verified November 24, 2026 (22:50 CET);
+  SHA-256 \texttt{b61b7b737cd1...}
+
+\bibitem{BrouwerPartitions2010}
+Andries~E. Brouwer.
+\newblock Partitions of binary vectors of constant weight into distance-4
+  codes.
+\newblock \url{https://aeb.win.tue.nl/codes/partitions/}, 2010.
+\newblock Archive of complete Johnson-graph partitions for $n \le 15$, dated
+  March 22, 2010.
+
+\bibitem{Echols2026}
+William Echols.
+\newblock New lower bounds for constant-weight codes via seeded bit-swap tabu
+  search.
+\newblock arXiv:2608.13906 [cs.IT], 2026.
+
+\bibitem{Stinson1985}
+D.~R. Stinson.
+\newblock Hill-climbing algorithms for the construction of combinatorial
+  designs.
+\newblock {\em Annals of Discrete Mathematics}, 26:321--334, 1985.
+
+\bibitem{deMouraUllrich2021Lean4}
+Leonardo de~Moura and Sebastian Ullrich.
+\newblock The {Lean 4} theorem prover and programming language.
+\newblock In {\em Automated Deduction -- CADE 28}, volume 12699 of {\em Lecture
+  Notes in Computer Science}, pages 625--635. Springer, 2021.
+
+\bibitem{EtzionBitan1996}
+Tuvi Etzion and Sara Bitan.
+\newblock On the chromatic number, colorings, and codes of the {Johnson} graph.
+\newblock {\em Discrete Applied Mathematics}, 70(2):163--175, 1996.
+
+\bibitem{EtzionHartman1991}
+Tuvi Etzion and Alan Hartman.
+\newblock Towards a large set of {Steiner} quadruple systems.
+\newblock {\em SIAM Journal on Discrete Mathematics}, 4(2):182--195, 1991.
+
+\bibitem{Schreiber1973}
+Shmuel Schreiber.
+\newblock Covering all triples on $n$ marks by disjoint {Steiner} systems.
+\newblock {\em Journal of Combinatorial Theory, Series A}, 15(3):347--350,
+  1973.
+
+\bibitem{Lu1983}
+Jiaxi Lu.
+\newblock On large sets of disjoint {Steiner} triple systems, {I--III}.
+\newblock {\em Journal of Combinatorial Theory, Series A}, 34(2):140--182,
+  1983.
+
+\bibitem{Teirlinck1991}
+Luc Teirlinck.
+\newblock A completion of {Lu}'s determination of the spectrum for large sets
+  of disjoint {Steiner} triple systems.
+\newblock {\em Journal of Combinatorial Theory, Series A}, 57(2):302--305,
+  1991.
+
+\end{thebibliography}
